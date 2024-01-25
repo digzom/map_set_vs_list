@@ -9,3 +9,9 @@ Run the following command:
 ```
 elixir benchmark.exs
 ``` 
+
+To run the head insertion benchmark, run:
+
+```bash
+elixir insertion_benchmark.exs
+```
